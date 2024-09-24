@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/preview-card-component-react-js-styled-component-proptypes-fdE4CUXmp8)
 - Live Site URL: [Deploy](https://your-live-site-url.com)
 
 ## My process
