@@ -9,7 +9,7 @@ export default function PreviewCard() {
     return (
         <>
             <PreviewCardContainer>
-                <CardColumm title='Sedans teste'
+                <CardColumm title='Sedans'
                  content='Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.' 
                  image={ SedanImage } 
                  bgcolor=' hsl(31, 77%, 52%)' />
