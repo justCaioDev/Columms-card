@@ -10,7 +10,7 @@ const PreviewCardContainer = styled.section`
     border-radius: 8px;
     background-color: white;
 
-    @media screen and (max-width: 1040px) {
+    @media screen and (max-width: 1075px) {
         flex-direction: column;
     }
 `

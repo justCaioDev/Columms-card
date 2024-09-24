@@ -9,7 +9,7 @@ const AppContainer = styled.div`
   justify-content: center;
   padding: 80px 24px;
 
-  @media screen and (max-width: 1040px) {
+  @media screen and (max-width: 1075px) {
       height: 100%;
     }
 `
