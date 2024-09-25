@@ -6,12 +6,13 @@ const AppContainer = styled.div`
   height: 100%;
   display: flex;
   /* align-items: center; */
+  margin-block-start: 171px;
   justify-content: center;
-  padding: 80px 24px;
+  padding: 40px 24px;
 
-  @media screen and (max-width: 1075px) {
+  /* @media screen and (max-width: 1075px) {
       height: 100%;
-    }
+    } */
 `
 
 
