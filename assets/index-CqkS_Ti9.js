@@ -103,10 +103,11 @@ Error generating stack: `+o.message+`
   height: 100%;
   display: flex;
   /* align-items: center; */
+  margin-block-start: 171px;
   justify-content: center;
-  padding: 80px 24px;
+  padding: 40px 24px;
 
-  @media screen and (max-width: 1075px) {
+  /* @media screen and (max-width: 1075px) {
       height: 100%;
-    }
+    } */
 `;function Y1(){return b.jsx(K1,{children:b.jsx(Q1,{})})}Jo.createRoot(document.getElementById("root")).render(b.jsx(En.StrictMode,{children:b.jsx(Y1,{})}));
